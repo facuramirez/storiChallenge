@@ -25,10 +25,10 @@ También cuenta con una carpeta **src** la cual contiene las siguientes carpetas
 7. Desde la consola situarse en la carpeta **client** y colocar **npm run dev**
 
 **Flow de la página:**
-1-	El usuario ingresa al sitio en el cual deberá colocar su correo y subir su archivo “csv”.
-2-	No podrá realizar la operación hasta no completar dichos campos y que ambos sean válidos.
-3-	Una vez completado lo anterior, deberá hacer click en “Procesar”.
-4-	Aparecerá una vista previa antes de confirmar la operación y podrá volver hacia atrás si decide modificar los datos colocados.
-5-	Finalmente deberá hacer click en “Enviar” recibiendo en su correo el resumen de su cuenta.
+1.	El usuario ingresa al sitio en el cual deberá colocar su correo y subir su archivo “csv”.
+2.	No podrá realizar la operación hasta no completar dichos campos y que ambos sean válidos.
+3.	Una vez completado lo anterior, deberá hacer click en “Procesar”.
+4.	Aparecerá una vista previa antes de confirmar la operación y podrá volver hacia atrás si decide modificar los datos colocados.
+5.	Finalmente deberá hacer click en “Enviar” recibiendo en su correo el resumen de su cuenta.
 
 ### **IMPORTANTE: El archivo 'csv' de encuentra en la carpeta *./client/Transacciones.csv* **
