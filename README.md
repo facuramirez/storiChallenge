@@ -5,7 +5,7 @@
 -	api: (backend)
 -	client: (frontend)
 
-* **api:** Cuenta con un archivo index.js y app.js en el cual se realizan las configuraciones iniciales relativas al servidor de Nodejs y MongoDB. 
+* **api:** Cuenta con un archivo **index.js** y **app.js** en el cual se realizan las configuraciones iniciales relativas al servidor de Nodejs y MongoDB. 
 También cuenta con una carpeta **src** la cual contiene las siguientes carpetas: 
   *  **controllers:** archivos que contienen las funciones para obtener los datos de la base de datos, guardarlos y eliminarlos así como la configuración de la librería “nodemailer” para enviar mails.  
   *  **models:** el modelo (esquema) de Mongoose. 
