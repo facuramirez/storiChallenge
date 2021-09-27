@@ -16,14 +16,11 @@ También cuenta con una carpeta **src** la cual contiene las siguientes carpetas
   *  **Layout:** archivo contenedor para los componentes que lo utilicen (en este caso solo Home). 
 
 **Instrucciones ejecución de código:**
-* Clonar repositorio
-
-* Instalar Nodejs
-
-* Instalar Mongodb
-
-* Crear una carpeta en el disco **C:/** llamada **data** y dentro de esta crear otra llamada **db** (dejarla vacía). 
-* Desde la consola en cualquier directorio correr el comando **mongod** 
-* Desde la consola situarse en la carpeta **api** y colocar **npm start** 
-* Desde la consola situarse en la carpeta **client** y colocar **npm run dev** 
+1. Instalar Nodejs
+2. Instalar Mongodb
+3. Clonar repositorio
+4. Crear una carpeta en el disco **C:/** llamada **data** y dentro de esta crear otra llamada **db** (dejarla vacía). 
+5. Desde la consola en cualquier directorio correr el comando **mongod** 
+6. Desde la consola situarse en la carpeta **api** y colocar **npm start** 
+7. Desde la consola situarse en la carpeta **client** y colocar **npm run dev** 
 
