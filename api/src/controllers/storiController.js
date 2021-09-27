@@ -4,9 +4,6 @@ const moment = require('moment');
 const enviarMail = require('./sendMail');
 
 var controller = {
-    home: (req, res) => {
-        res.json({message: "I'm the function HOME"})
-    },
     saveFile: (req, res) => {
         var {transactions, email} = req.body;
         
