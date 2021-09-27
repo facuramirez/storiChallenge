@@ -16,13 +16,13 @@ También cuenta con una carpeta **src** la cual contiene las siguientes carpetas
   *  **Layout:** archivo contenedor para los componentes que lo utilicen (en este caso solo Home). 
 
 **Instrucciones ejecución de código:**
-1. Instalar Nodejs
+<!-- 1. Instalar Nodejs
 2. Instalar Mongodb
 3. Clonar repositorio
 4. Crear una carpeta en el disco **C:/** llamada **data** y dentro de esta crear otra llamada **db** (dejarla vacía). 
 5. Desde la consola en cualquier directorio correr el comando **mongod** 
 6. Desde la consola situarse en la carpeta **api** y colocar **npm start** 
-7. Desde la consola situarse en la carpeta **client** y colocar **npm run dev**
+7. Desde la consola situarse en la carpeta **client** y colocar **npm run dev** -->
 
 **Flow de la página:**
 1.	El usuario ingresa al sitio en el cual deberá colocar su correo y subir su archivo “csv”.
