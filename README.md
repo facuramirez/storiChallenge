@@ -1,7 +1,7 @@
-## **StoriChallenge** 
+# **StoriChallenge** 
 
-### Descripción de la interfaz del código: 
-El código se encuentra dividido en 2 carpetas: 
+## Descripción de la interfaz del código: 
+**El código se encuentra dividido en 2 carpetas:**
 -	api: (backend)
 -	client: (frontend)
 
@@ -15,7 +15,7 @@ También cuenta con una carpeta src la cual contiene las siguientes carpetas:
   *  Home: contenido de la página 
   *  Layout: archivo contenedor para los componentes que lo utilicen (en este caso solo Home). 
 
-Instrucciones ejecución de código: 
+**Instrucciones ejecución de código:**
 * Clonar repositorio
 
 * Instalar Nodejs
