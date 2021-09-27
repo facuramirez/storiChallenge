@@ -31,4 +31,4 @@ También cuenta con una carpeta **src** la cual contiene las siguientes carpetas
 4-	Aparecerá una vista previa antes de confirmar la operación y podrá volver hacia atrás si decide modificar los datos colocados.
 5-	Finalmente deberá hacer click en “Enviar” recibiendo en su correo el resumen de su cuenta.
 
-## **IMPORTANTE: El archivo 'csv' de encuentra en la carpeta *./client/Transacciones.csv* **
+### **IMPORTANTE: El archivo 'csv' de encuentra en la carpeta *./client/Transacciones.csv* **
