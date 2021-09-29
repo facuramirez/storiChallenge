@@ -17,9 +17,9 @@ También cuenta con una carpeta **src** la cual contiene las siguientes carpetas
 
 **Instrucciones ejecución de código:**
 1. Clonar repositorio
-2. Situarse en la carpeta **"api"** y colocar **docker-compose build**
+2. Situarse en la carpeta **"api"** y colocar **npm install** y luego **docker-compose build**
 3. A continuación colocar **docker-compose up**
-4. Situarse en la carpeta **"client"** y colocar **docker-compose build**
+4. Situarse en la carpeta **"client"** y colocar **npm install** y luego **docker-compose build**
 5. A continuación colocar **docker-compose up**
 6. A partir de ahora ya se encuentra disponible lo siguiente:
 * **frontend**: localhost:3000
