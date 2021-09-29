@@ -1,9 +1,12 @@
 var express = require('express');
 var app = express();
 var cors = require('cors');
+const PORT = 3001;
+
+require('./index');
 
 //Rutas
-var asd = require('./src/routes/storiRoutes');
+var routes = require('./src/routes/storiRoutes');
 
 // middlewares
 app.use(express.urlencoded({extended:false, limit: '50mb'}));
@@ -20,7 +23,12 @@ app.use(
 );
 
 // rutas
-app.use(asd);
+app.use('/api', routes);
+
+// Create Server
+app.listen(PORT, () => {
+	console.log('Server is running on port', PORT);
+})
 
 // export
 module.exports = app;
